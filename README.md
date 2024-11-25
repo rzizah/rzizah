@@ -4,6 +4,7 @@ Hi, I am Mostafa.
 
 A dedicated smart contract auditor and co-leader of [BUGPULL](https://github.com/bugpull/audits), I combine technical expertise with a strategic focus on enhancing protocol resilience. With a keen eye for unique and high-impact vulnerabilities, I bring both precision and insight to every engagement.
 
+
 # Contact Me
 
 - [X](https://twitter.com/rzizah_)
@@ -15,7 +16,8 @@ A dedicated smart contract auditor and co-leader of [BUGPULL](https://github.com
 - Ranked 5th on [fLayer](https://audits.sherlock.xyz/contests/468/leaderboard)
 - Ranked 11th on [Midas](https://audits.sherlock.xyz/contests/495/leaderboard)
 - Ranked 5th on [Munchables- LandManager](https://code4rena.com/audits/2024-07-munchables)
-
+- Ranked 8th on [Sablier-Flow](https://codehawks.cyfrin.io/c/2024-10-sablier)
+- Ranked 3rd on [gamma-brevis-rewarder](https://audits.sherlock.xyz/contests/496)
 
 # BugPull Audit Contest
 
@@ -27,6 +29,8 @@ A dedicated smart contract auditor and co-leader of [BUGPULL](https://github.com
 
 # Rzizah Audit Contests
 
-| Contest                                                                     | Date     | Description                        | Findings                                                                                    | Rank |                        Report                         |
-| :-------------------------------------------------------------------------- | -------- | :--------------------------------- | :------------------------------------------------------------------------------------------ | :--: | :---------------------------------------------------: |
-| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | Aug 2024 | RWA, real world asset tokenization | [1 M](https://github.com/rzizah/audits/blob/main/Contests/2024-08-midas-minter-redeemer.md) | 11th | [📄](https://audits.sherlock.xyz/contests/495/report) |
+| Contest                                                                     | Date     | Description                        | Findings                                                                                    |  Rank  |                                   Report                                    |
+| :-------------------------------------------------------------------------- | -------- | :--------------------------------- | :------------------------------------------------------------------------------------------ | :----: | :-------------------------------------------------------------------------: |
+| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | Aug 2024 | RWA, real world asset tokenization | [1 M](https://github.com/rzizah/audits/blob/main/Contests/2024-08-midas-minter-redeemer.md) |  11th  |            [📄](https://audits.sherlock.xyz/contests/495/report)            |
+| [Sablier-Flow](https://codehawks.cyfrin.io/c/2024-10-sablier)               | Oct 2024 | Dept tracking                      | [1 L](https://github.com/rzizah/audits/blob/main/Contests/2024-10-sablier.md)               |  8th   | [📄](https://codehawks.cyfrin.io/c/2024-10-sablier/results?t=report&page=1) |
+| [gamma-brevis-rewarder](https://audits.sherlock.xyz/contests/496)           | Oct 2024 | Liquidty Management, ZK Proofs     | [1 M](https://github.com/rzizah/audits/blob/main/Contests/2024-10-gamma-brevis-rewarder.md) | 3rd 🥉 |            [📄](https://audits.sherlock.xyz/contests/466/report)            |
